@@ -60,6 +60,14 @@
         "actionAlt" : "Access available WRS Statements.",
         "dismissable" : true,
         "priority": false
+      },
+      {
+        "id"     : 10,
+        "groups" : ["All Users (PAGS)"],
+        "title"  : "Lunch is not provided.",
+        "actionURL" : "https://docs.google.com/document/d/1wgZD0NxjXHC4QWUZFFOaxbwLxqmNeaQpIDH9OZNcvgU/edit",
+        "actionAlt" : "Lunch options",
+        "priority": true
       }
     ]
 }
