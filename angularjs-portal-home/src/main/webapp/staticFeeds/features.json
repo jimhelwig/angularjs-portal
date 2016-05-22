@@ -57,5 +57,23 @@
       "shortDesc" : "If you want to follow NCAA tournaments search for sports in MyUW.",
       "endDate": 1459486800000
     }
+  },
+  {
+    "id": 4,
+    "title": "New Mysterious Bookstore widget",
+    "description": "You can now conveniently access pages of the Mysterious Bookstore website from your portal home.",
+    "img": "http://goo.gl/URtUz2",
+    "learnMoreURL": "",
+    "groups" : "All Users (PAGS)",
+    "goLiveYear": 2016,
+    "goLiveMonth": 1,
+    "goLiveDay": 6,
+    "isPopup" : false,
+    "isBuckyAnnouncement" : true,
+    "buckyAnnouncement" : {
+      "shortTitle" : "Mysterious Widget",
+      "shortDesc" : "A strange widget emerges from the mists...",
+      "endDate": 2459486800000
+    }
   }
 ]
